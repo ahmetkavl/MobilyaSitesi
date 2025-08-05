@@ -6,9 +6,10 @@ Proje tamamen eğitim ve portföy amaçlıdır.
 ---
 
 ## ⚠️ Görsel Kullanım Notu
-Bu proje yalnızca kişisel portföy ve eğitim amaçlı hazırlanmıştır.
-Projede kullanılan ürün görselleri Modalife.com’dan alınmıştır.
-Tüm görseller ilgili markanın mülkiyetindedir. Ticari amaçla kullanılmamıştır. Sadece Eğitim Amaçlıdır.
+
+- Bu proje yalnızca kişisel portföy ve eğitim amaçlı hazırlanmıştır.
+- Projede kullanılan ürün görselleri Modalife.com’dan alınmıştır.
+- Tüm görseller ilgili markanın mülkiyetindedir. Ticari amaçla kullanılmamıştır. Sadece Eğitim Amaçlıdır.
 
 ---
 
