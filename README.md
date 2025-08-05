@@ -10,7 +10,7 @@ Proje tamamen eğitim ve portföy amaçlıdır.
 - Bu proje yalnızca kişisel portföy ve eğitim amaçlı hazırlanmıştır.
 - Projede kullanılan ürün görselleri Modalife.com’dan alınmıştır.
 - Tüm görseller ilgili markanın mülkiyetindedir. Ticari amaçla kullanılmamıştır. Sadece Eğitim Amaçlıdır.
-- Celesta Home adlı sitenin hiçbir gerçek kurum ve kuruluşla ilgisi bulunmamaktadır.
+- Celesta Home adlı sitenin hiçbir gerçek kurum ve kuruluşla ilgisi bulunmamaktadır. Ticari bir amacı yoktur.
 
 ---
 
