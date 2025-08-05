@@ -3,7 +3,9 @@
 🧾 Bu proje, basit bir mobilya tanıtım sitesidir. Sitede yalnızca görsel ve metin tabanlı tanıtım yer almakta olup, herhangi bir alışveriş veya kullanıcı işlemi sistemi bulunmamaktadır.
 Proje tamamen eğitim ve portföy amaçlıdır.
 
-⚠️ Görsel Kullanım Notu
+---
+
+## ⚠️ Görsel Kullanım Notu
 Bu proje yalnızca kişisel portföy ve eğitim amaçlı hazırlanmıştır.
 Projede kullanılan ürün görselleri Modalife.com’dan alınmıştır.
 Tüm görseller ilgili markanın mülkiyetindedir. Ticari amaçla kullanılmamıştır. Sadece Eğitim Amaçlıdır.
