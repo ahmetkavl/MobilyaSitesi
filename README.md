@@ -17,7 +17,9 @@ Proje tamamen eğitim ve portföy amaçlıdır.
 ## ✨ Özellikler
 
 - Modern ve dinamik tasarım  
-- Renk geçişleriyle gençlere hitap eden stil  
+- Renk geçişleriyle gençlere hitap eden stil
+- Kayar yazı şeklinde indirim yazısı (Javascript ile desteklenen şekilde belirlenen tarihe göre dinamik olarak gün & saat & dakika bilgisi vererek çalışır)
+- Sürekli değişen müşteri yorumları bölümü
 - Çalışma masası, kitaplık, gardırop gibi mobilya takımları tanıtımı  
 - Sadece frontend, backend veya veritabanı yok
 
