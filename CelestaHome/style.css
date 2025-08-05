@@ -1,0 +1,109 @@
+.custom-container {
+    max-width: 1200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.ahmet {
+    box-shadow: rgba(17, 50, 88, 0.3) 0px 0px 0px 3px;
+}
+
+.ahmet .nav-link {
+    color: #343A40;
+}
+
+.ahmet .nav-link:hover {
+    color: #17a52f;
+}
+
+.ahmet2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ahmet3 {
+    background-color: #147925 !important;
+    color: white !important;
+}
+
+.ahmet3:hover {
+    background-color: #14b12e !important;
+    color: white !important;
+}
+
+.lead {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+/* İndirim bandı */
+.marquee-container {
+    background-color: #ff1a1a;
+    padding: 12px 0;
+    overflow: hidden;
+    position: relative;
+    animation: flash-bg 0.6s infinite alternate;
+    z-index: 1000;
+}
+
+.marquee-content {
+    display: inline-block;
+    white-space: nowrap;
+    animation: marquee-scroll 15s linear infinite; /* Hızlandırdım */
+    padding-left: 100%;
+}
+
+@keyframes marquee-scroll {
+    0%   { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}
+
+@keyframes flash-bg {
+    0%   { background-color: #147925; }
+    100% { background-color: #14b12e; }
+}
+
+footer {
+    margin-top: 40px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+/* Tüm Ürünlerin Aynı Yükseklikte Olması İçin */
+.card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-body {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-body .mt-auto {
+  margin-top: auto;
+}
+
+/* Ürün Resmi Üzerine Hover Etkisi */
+.product-image-wrapper {
+  overflow: hidden;
+}
+
+.product-image-wrapper .hover-img {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 1;
+}
+
+.product-image-wrapper:hover .hover-img {
+  opacity: 1;
+}
+
+.product-image-wrapper:hover .main-img {
+  opacity: 0;
+}
+
