@@ -30,7 +30,7 @@ Tüm görseller ilgili markanın mülkiyetindedir. Ticari amaçla kullanılmamı
 ## 🖼️ Ekran Görüntüleri
 
 ### 🏠 Anasayfa
-![Örnek Resim 1](gorseller/anasayfa.png)
+![Anasayfa](gorseller/anasayfa.png)
 
 ### 🏠 Sayfa 1
 ![Sayfa 1](gorseller/sayfa1.png)
